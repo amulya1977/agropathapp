@@ -95,3 +95,5 @@ AgroPath utilizes a microservices-oriented architecture powered by **FastAPI** f
    ```bash
    git clone [https://github.com/your-username/agropath.git](https://github.com/your-username/agropath.git)
    cd agropath
+2.**Create a Virtual Environment**
+
